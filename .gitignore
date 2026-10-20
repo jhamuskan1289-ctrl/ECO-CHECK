@@ -1,0 +1,18 @@
+# ECO-CHECK
+.env
+*.env
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
